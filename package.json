@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mysterlune/object.git"
+    "url": "ssh://repos.oak.iparadigms.com/var/git/tiip/object.git"
   },
   "keywords": [
     "object",
